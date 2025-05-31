@@ -1,0 +1,26 @@
+{
+    "admin": {
+        "password": "admin123",
+        "is_admin": true
+    },
+    "Prima": {
+        "password": "",
+        "is_admin": false
+    },
+    "": {
+        "password": "",
+        "is_admin": false
+    },
+    "Pras": {
+        "password": "pras123",
+        "is_admin": false
+    },
+    "Aghnia": {
+        "password": "aghnia123",
+        "is_admin": false
+    },
+    "Budi": {
+        "password": "Budi123",
+        "is_admin": false
+    }
+}

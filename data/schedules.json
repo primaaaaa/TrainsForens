@@ -1,0 +1,68 @@
+[
+    {
+        "schedule_id": "SCH20250528121738",
+        "departure": "Bogor",
+        "destination": "Sukabumi",
+        "train_name": "KA Pangrango 02",
+        "date": "2025-05-28",
+        "departure_time": "10:00",
+        "arrival_time": "15:00",
+        "price": 150.0,
+        "available_seats": 150
+    },
+    {
+        "schedule_id": "SCH20250528122455",
+        "departure": "Bogor",
+        "destination": "Sukabumi",
+        "train_name": "KA Pangrango 02",
+        "date": "2025-05-28",
+        "departure_time": "18:00",
+        "arrival_time": "20:00",
+        "price": 120.0,
+        "available_seats": 120
+    },
+    {
+        "schedule_id": "SCH20250528123520",
+        "departure": "Bogor",
+        "destination": "Sukabumi",
+        "train_name": "KA Pangrango 03",
+        "date": "2025-05-27",
+        "departure_time": "19:00",
+        "arrival_time": "20:00",
+        "price": 120.0,
+        "available_seats": 120
+    },
+    {
+        "schedule_id": "SCH20250530195512",
+        "departure": "Bogor",
+        "destination": "Sukabumi",
+        "train_name": "KA Pangrango 01",
+        "date": "2025-05-31",
+        "departure_time": "10:00",
+        "arrival_time": "15:00",
+        "price": 150000.0,
+        "available_seats": 150
+    },
+    {
+        "schedule_id": "SCH20250530195543",
+        "departure": "Cikarang",
+        "destination": "Purwakarta",
+        "train_name": "KA Walahar 01",
+        "date": "2025-05-31",
+        "departure_time": "13:00",
+        "arrival_time": "16:00",
+        "price": 150000.0,
+        "available_seats": 150
+    },
+    {
+        "schedule_id": "SCH20250530195615",
+        "departure": "Bogor",
+        "destination": "Sukabumi",
+        "train_name": "KA Pangrango 02",
+        "date": "2025-05-31",
+        "departure_time": "16:00",
+        "arrival_time": "21:00",
+        "price": 150000.0,
+        "available_seats": 150
+    }
+]

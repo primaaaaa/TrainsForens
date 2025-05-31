@@ -1,0 +1,55 @@
+{
+    "Prima": [],
+    "Pras": [
+        {
+            "plan_id": "PLAN20250528024315",
+            "schedule": {
+                "schedule_id": "SCH20250528023657",
+                "departure": "Bogor",
+                "destination": "Sukabumi",
+                "train_name": "KA Pangrango 01",
+                "date": "2025-05-28",
+                "departure_time": "15:00",
+                "arrival_time": "23:00",
+                "price": 150000.0,
+                "available_seats": 150
+            },
+            "date": "2025-05-28",
+            "created_at": "2025-05-28 02:43:15"
+        }
+    ],
+    "Budi": [
+        {
+            "plan_id": "PLAN20250530200620",
+            "schedule": {
+                "schedule_id": "SCH20250530195512",
+                "departure": "Bogor",
+                "destination": "Sukabumi",
+                "train_name": "KA Pangrango 01",
+                "date": "2025-05-31",
+                "departure_time": "10:00",
+                "arrival_time": "15:00",
+                "price": 150000.0,
+                "available_seats": 150
+            },
+            "date": "2025-05-31",
+            "created_at": "2025-05-30 20:06:20"
+        },
+        {
+            "plan_id": "PLAN20250530200722",
+            "schedule": {
+                "schedule_id": "SCH20250530195543",
+                "departure": "Cikarang",
+                "destination": "Purwakarta",
+                "train_name": "KA Walahar 01",
+                "date": "2025-05-31",
+                "departure_time": "13:00",
+                "arrival_time": "16:00",
+                "price": 150000.0,
+                "available_seats": 150
+            },
+            "date": "2025-05-31",
+            "created_at": "2025-05-30 20:07:22"
+        }
+    ]
+}
